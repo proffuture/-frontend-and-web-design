@@ -4,4 +4,4 @@
 ## Видео
 * Вадим Макеев [Оптимизация графики, Squoosh и элемент picture](https://www.youtube.com/watch?v=gHLPBlzGRT8)
 ## frontend
-* Влад Мержевич [Справочник HTML](http://htmlbook.ru/blog/spravochnik-html-0)
+* Влад Мержевич [Справочник HTML](http://htmlbook.ru/blog/spravochnik-html-0) [Справочник CSS](http://htmlbook.ru/blog/spravochnik-css-1)
