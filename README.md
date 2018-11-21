@@ -3,7 +3,7 @@
 
 ## Видео
 * Вадим Макеев [Оптимизация графики, Squoosh и элемент picture](https://www.youtube.com/watch?v=gHLPBlzGRT8)
-### Каналы
+### Каналы на youtube
 * HTMLACADEMY [html шорты](https://www.youtube.com/channel/UChUxTMjJGo-JDRY8pNTGL2g)
 ## frontend
 * Влад Мержевич [Справочник HTML](http://htmlbook.ru/blog/spravochnik-html-0) [Справочник CSS](http://htmlbook.ru/blog/spravochnik-css-1)
