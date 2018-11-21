@@ -6,6 +6,7 @@
 ## frontend
 * Влад Мержевич [Справочник HTML](http://htmlbook.ru/blog/spravochnik-html-0) [Справочник CSS](http://htmlbook.ru/blog/spravochnik-css-1)
 ## web-design
+### Редакторы графики
 * Оптимизатор графики: "Squoosh" [Попробовать](https://squoosh.app/)
 * Графический редактор: "Zeplin" [Попробовать](https://zeplin.io)
 ## Разное
