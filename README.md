@@ -19,5 +19,7 @@
 * Графический редактор: "Zeplin" [Попробовать](https://www.sketchapp.com)
 * Графический редактор: "Avocode" [Попробовать](https://avocode.com)
 ## Разное
-* Хабрахабр [Очень нужный сайт!)](https://habr.com/)
+* Хабрахабр [Очень нужный сайт!](https://habr.com/)
 * Слепой десятипальцевый метод набора [Солло на клавиатуре](https://ergosolo.ru)
+### Телеграм каналы
+* Канал 3d-моделирования в AUTODESK INVENTOR [NewCad](https://t.me/newcad_ru)
