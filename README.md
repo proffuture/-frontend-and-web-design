@@ -5,6 +5,7 @@
 * Вадим Макеев [Оптимизация графики, Squoosh и элемент picture](https://www.youtube.com/watch?v=gHLPBlzGRT8)
 ### Каналы на youtube
 * HTMLACADEMY [html шорты](https://www.youtube.com/channel/UChUxTMjJGo-JDRY8pNTGL2g)
+* Vadim Makeev [Vadim Makeev](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ)
 ## frontend
 * Влад Мержевич [Справочник HTML](http://htmlbook.ru/blog/spravochnik-html-0) [Справочник CSS](http://htmlbook.ru/blog/spravochnik-css-1)
 ## web-design
