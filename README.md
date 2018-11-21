@@ -8,6 +8,7 @@
 * Vadim Makeev [Vadim Makeev](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ)
 ## frontend
 * Влад Мержевич [Справочник HTML](http://htmlbook.ru/blog/spravochnik-html-0) [Справочник CSS](http://htmlbook.ru/blog/spravochnik-css-1)
+* webref.ru [Всё про HTML & CSS](https://webref.ru)
 ## web-design
 ### Редакторы графики
 * Оптимизатор графики: "Squoosh" [Попробовать](https://squoosh.app/)
