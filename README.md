@@ -9,5 +9,8 @@
 ### Редакторы графики
 * Оптимизатор графики: "Squoosh" [Попробовать](https://squoosh.app/)
 * Графический редактор: "Zeplin" [Попробовать](https://zeplin.io)
+* Продукция Adobe: "Photoshop, illustrator" [Оформить подписку](https://www.adobe.com/ru/)
+* Графический редактор: "Zeplin" [Попробовать](https://www.sketchapp.com)
+* Графический редактор: "Avocode" [Попробовать](https://avocode.com)
 ## Разное
 * Хабрахабр [Очень нужный сайт!)](https://habr.com/)
