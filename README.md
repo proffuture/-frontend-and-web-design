@@ -7,5 +7,6 @@
 * Влад Мержевич [Справочник HTML](http://htmlbook.ru/blog/spravochnik-html-0) [Справочник CSS](http://htmlbook.ru/blog/spravochnik-css-1)
 ## web-design
 * Оптимизатор графики: "Squoosh" [Попробовать](https://squoosh.app/)
+* Графический редактор: "Zeplin" [Попробовать](https://zeplin.io)
 ## Разное
 * Хабрахабр [Очень нужный сайт!)](https://habr.com/)
