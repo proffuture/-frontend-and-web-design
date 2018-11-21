@@ -6,6 +6,7 @@
 ### Каналы на youtube
 * HTMLACADEMY [html шорты](https://www.youtube.com/channel/UChUxTMjJGo-JDRY8pNTGL2g)
 * Vadim Makeev [Vadim Makeev](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ)
+* Академия Яндекса [Академия Яндекса](https://www.youtube.com/channel/UCTUyoZMfksbNIHfWJjwr5aQ)
 ## frontend
 * Влад Мержевич [Справочник HTML](http://htmlbook.ru/blog/spravochnik-html-0) [Справочник CSS](http://htmlbook.ru/blog/spravochnik-css-1)
 * webref.ru [Всё про HTML & CSS](https://webref.ru)
