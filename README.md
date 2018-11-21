@@ -1,4 +1,4 @@
-# frontend and web-design
+# sphere IT
 Все самое нужное и полезное для веб-разработки
 
 ## Видео
