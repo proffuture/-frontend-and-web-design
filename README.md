@@ -3,6 +3,8 @@
 
 ## Видео
 * Вадим Макеев [Оптимизация графики, Squoosh и элемент picture](https://www.youtube.com/watch?v=gHLPBlzGRT8)
+* Серёжа Попов [А что если мы долетим и там будет всё?](https://www.youtube.com/watch?v=DYyWpZ8XRho)
+* Серёжа Попов [Что нужно знать, чтобы готовить свои черновики спецификаций.](https://www.youtube.com/watch?v=Z9of2cj28hY)
 ### Каналы на youtube
 * HTMLACADEMY [html шорты](https://www.youtube.com/channel/UChUxTMjJGo-JDRY8pNTGL2g)
 * Vadim Makeev [Vadim Makeev](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ)
