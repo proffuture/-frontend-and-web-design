@@ -14,6 +14,7 @@
 * webref.ru [Всё про HTML & CSS](https://webref.ru)
 * htmlbook.ru [Для тех, кто делает сайты](http://htmlbook.ru)
 * Normalize.css [это небольшой CSS-файл, который обеспечивает для HTML-элементов лучшую кроссбраузерность в стилях по умолчанию. Это современная, готовая к HTML5 альтернатива традиционному reset.css.](https://necolas.github.io/normalize.css/)
+* css-live.ru [Никто не знает CSS: специфичность — не каскад](http://css-live.ru/css/nikto-ne-znaet-css-specifichnost-ne-kaskad.html)
 ## web-design
 ### Редакторы графики
 * Оптимизатор графики: "Squoosh" [Попробовать](https://squoosh.app/)
