@@ -11,6 +11,7 @@
 * Влад Мержевич [Справочник HTML](http://htmlbook.ru/blog/spravochnik-html-0) [Справочник CSS](http://htmlbook.ru/blog/spravochnik-css-1)
 * webref.ru [Всё про HTML & CSS](https://webref.ru)
 * htmlbook.ru [Для тех, кто делает сайты](http://htmlbook.ru)
+* Normalize.css [это небольшой CSS-файл, который обеспечивает для HTML-элементов лучшую кроссбраузерность в стилях по умолчанию. Это современная, готовая к HTML5 альтернатива традиционному reset.css.](https://necolas.github.io/normalize.css/)
 ## web-design
 ### Редакторы графики
 * Оптимизатор графики: "Squoosh" [Попробовать](https://squoosh.app/)
