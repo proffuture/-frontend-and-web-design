@@ -17,6 +17,7 @@
 * css-live.ru [Никто не знает CSS: специфичность — не каскад](http://css-live.ru/css/nikto-ne-znaet-css-specifichnost-ne-kaskad.html)
 * fontstorage.com [Подключение нестандартных шрифтов. Часть первая](https://fontstorage.com/blog/about-font-face-part-one/)
 * fontstorage.com [Подключение нестандартных шрифтов. Часть вторая](https://fontstorage.com/blog/about-font-face-part-two/)
+* developers.google.com [Оптимизация шрифтов.](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
 ## web-design
 ### Редакторы графики
 * Оптимизатор графики: "Squoosh" [Попробовать](https://squoosh.app/)
