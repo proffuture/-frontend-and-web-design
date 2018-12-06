@@ -18,6 +18,7 @@
 * fontstorage.com [Подключение нестандартных шрифтов. Часть первая](https://fontstorage.com/blog/about-font-face-part-one/)
 * fontstorage.com [Подключение нестандартных шрифтов. Часть вторая](https://fontstorage.com/blog/about-font-face-part-two/)
 * developers.google.com [Оптимизация шрифтов.](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
+* Flexbox [Флексбокс, теперь понятно — презентация.](https://pepelsbey.net/pres/flexbox-gotcha/)
 * medium.com [Ремы, емы, и почему отказ от них — не проблема](https://medium.com/devschacht/david-gilbertson-rems-and-ems-and-why-you-probably-dont-need-them-3b2b1e785787)
 * codepen.io [Интерактивная диаграмма блочной модели документа.](https://codepen.io/carolineartz/full/ogVXZj/)
 ## web-design
