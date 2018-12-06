@@ -19,6 +19,7 @@
 * fontstorage.com [Подключение нестандартных шрифтов. Часть вторая](https://fontstorage.com/blog/about-font-face-part-two/)
 * developers.google.com [Оптимизация шрифтов.](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=ru)
 * medium.com [Ремы, емы, и почему отказ от них — не проблема](https://medium.com/devschacht/david-gilbertson-rems-and-ems-and-why-you-probably-dont-need-them-3b2b1e785787)
+* codepen.io [Интерактивная диаграмма блочной модели документа.](https://codepen.io/carolineartz/full/ogVXZj/)
 ## web-design
 ### Редакторы графики
 * Оптимизатор графики: "Squoosh" [Попробовать](https://squoosh.app/)
