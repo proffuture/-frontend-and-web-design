@@ -31,6 +31,7 @@
 * Продукция Adobe: "Photoshop, illustrator" [Оформить подписку](https://www.adobe.com/ru/)
 * Графический редактор: "sketch" [Попробовать](https://www.sketchapp.com)
 * Графический редактор: "Avocode" [Попробовать](https://avocode.com)
+* Графический редактор: "Figma" [Попробовать](https://www.figma.com)
 ## Разное
 * Хабрахабр [Очень нужный сайт!](https://habr.com/)
 * Слепой десятипальцевый метод набора [Солло на клавиатуре](https://ergosolo.ru)
