@@ -21,6 +21,7 @@
 * Flexbox [Флексбокс, теперь понятно — презентация.](https://pepelsbey.net/pres/flexbox-gotcha/)
 * medium.com [Ремы, емы, и почему отказ от них — не проблема](https://medium.com/devschacht/david-gilbertson-rems-and-ems-and-why-you-probably-dont-need-them-3b2b1e785787)
 * codepen.io [Интерактивная диаграмма блочной модели документа.](https://codepen.io/carolineartz/full/ogVXZj/)
+* habr.com [БЭМ-методология: с чего всё начиналось и зачем это всё нужно](https://habr.com/company/yandex/blog/276035/)
 ### JavaScript
 * learn.javascript.ru [Современный учебник Javascript](https://learn.javascript.ru)
 * [ES5 руководство по JavaScript](https://habr.com/post/281110/)
